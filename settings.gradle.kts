@@ -1,0 +1,1 @@
+rootProject.name = "com.lnight.tic-tac-toe-backend"
